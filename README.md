@@ -1,4 +1,4 @@
 # ✅Linux-terminal HW-№1:
 Сontent:
-- 📚tasks - Task list;
+- 📚Tasks - task list;
 - 📖Completed homework
