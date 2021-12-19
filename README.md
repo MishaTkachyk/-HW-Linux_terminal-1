@@ -1,5 +1,5 @@
 # ✅Linux-terminal HW-№1
-Сontent:;
+Сontent:
 - 📖Completed homework
 
 # 📚Tasks:
